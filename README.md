@@ -14,4 +14,4 @@ For traning of RRANE, please run below code
 # Test
 For test of RRANE, please run below code
 
-	python train.pyd -d $dataset_ind -e $exp_name --use_numeric
+	python train.py -d $dataset_ind -e $exp_name --use_numeric
