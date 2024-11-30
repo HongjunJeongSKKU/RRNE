@@ -1,4 +1,4 @@
-# RRANE - Relative Relation Aware Numeric Encoding
+# RARNE - Relation-Aware Relative Numeric Encoding
 
 This code is based on [GraIL](https://github.com/kkteru/grail).
 
