@@ -6,6 +6,10 @@ This code is based on [GraIL](https://github.com/kkteru/grail).
 
 All the required packages can be installed by running `pip install -r requirements.txt`.
 
+## Data statistics
+
+Our data statistics are as follows:
+![statistics](RRNE/data_statistics.png)
 # Train
 For traning of RRANE, please run below code
 
@@ -14,4 +18,4 @@ For traning of RRANE, please run below code
 # Test
 For test of RRANE, please run below code
 
-	python train.py -d $dataset_ind -e $exp_name --use_numeric
+	python train.pyd -d $dataset_ind -e $exp_name --use_numeric
