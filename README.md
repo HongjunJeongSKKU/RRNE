@@ -9,7 +9,7 @@ All the required packages can be installed by running `pip install -r requiremen
 ## Data statistics
 
 Our data statistics are as follows:
-![statistics](RRNE/data_statistics.png)
+![statistics](data_statistics.png)
 # Train
 For traning of RRANE, please run below code
 
