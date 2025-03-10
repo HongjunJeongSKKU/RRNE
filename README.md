@@ -1,6 +1,6 @@
 # RRNE - Relation-aware Relative Numeric Encoding
-
-This code is based on [GraIL](https://github.com/kkteru/grail).
+This repository contains official implementation of paper "Enhancing Inductive Numerical Reasoning in Knowledge Graphs with Relation-Aware Relative Numeric Encoding".
+This repository is based on [GraIL](https://github.com/kkteru/grail).
 
 ## Requiremetns
 
