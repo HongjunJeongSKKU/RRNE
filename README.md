@@ -1,5 +1,5 @@
 # RRNE - Relation-aware Relative Numeric Encoding
-This repository contains official implementation of paper "Enhancing Inductive Numerical Reasoning in Knowledge Graphs with Relation-Aware Relative Numeric Encoding".
+This repository contains official implementation of paper "Enhancing Inductive Numerical Reasoning in Knowledge Graphs with Relation-Aware Relative Numeric Encoding" ([paper](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_14)).
 
 This repository is based on [GraIL](https://github.com/kkteru/grail).
 
@@ -27,3 +27,15 @@ For traning of RRNE on Credit or Spotify, please run below code
 For test of RRNE, please run below code
 
 	python train.pyd -d $dataset_ind -e $exp_name --use_numeric --hop $hop
+
+# Citation
+If this repository is helpful for you, please cite this paper.
+
+    @InProceedings{10.1007/978-981-96-8173-0_14,
+    author="Jeong, Hongjun and Jung, Heesoo and Kim, Gayeong and Kim, Juann and Kim, Ko Keun and Park, Hogun",
+    title="Enhancing Inductive Numerical Reasoning in Knowledge Graphs with Relation-Aware Relative Numeric Encoding",
+    booktitle="Advances in Knowledge Discovery and Data Mining",
+    year="2025",
+    pages="173--186",
+    }
+
